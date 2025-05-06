@@ -1,5 +1,6 @@
 # BebzToolGUI
-AdminTool with interface for user gestion
+MultiAdminTool with interface for general gestion
+
 The script needs to be launched as admin
 
 
